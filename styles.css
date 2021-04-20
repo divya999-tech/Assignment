@@ -1,0 +1,36 @@
+fieldset {
+  width: 10px;
+}
+#form {
+  float: right;
+  clear: left;
+  padding: 10px;
+  text-align: justify;
+  border-left: 30px;
+}
+#img {
+  width: 250px;
+}
+#fobo {
+  background-color: aqua;
+  margin: 10px;
+}
+#name:hover {
+  color: green;
+  font-family: "Times New Roman", Times, serif;
+  background-color: yellow;
+}
+
+.password:hover {
+  color: red;
+}
+#logbo {
+  background-color: chartreuse;
+}
+#loginform {
+  width: 150px;
+}
+h1#logbo {
+  width: 200px;
+  text-align: center;
+}
